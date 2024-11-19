@@ -41,6 +41,6 @@ body {
 .current_price,
 .previous_price,
 button {
-    margin-bottom: 10px; /* Adds spacing between elements */
+    margin-bottom: 10px; 
 }
 
